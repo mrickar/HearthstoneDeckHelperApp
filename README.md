@@ -1,5 +1,7 @@
 # HearthstoneDeckHelper
 
+[Google Play](https://play.google.com/store/apps/details?id=com.mrickar.hearthstonedeckhelper)
+
 This is one of Kotlin Compose projects that I developped during my internship. I used clean architecture with MVVM pattern. </br>
 - Used tools, libraries: Firebase Auth and Realtime Database, Retrofit, OkHttp, Dagger-Hilt, etc.
 
